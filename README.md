@@ -8,7 +8,7 @@
 <!-- ## Motivation -->
 This project was based on [TDD](https://en.wikipedia.org/wiki/Test-driven_development) (Test-driven development) written in the [python](python) directory
 ## Aim
-The aim of this project was to develop a command-line interface (CLI) Youtube Program (in one of the prefered languages) that pass all the tests
+The aim of this project was to develop a command-line interface (CLI) Youtube Program (in one of the preferred languages) that pass all the tests
 
 
 # Getting Started
