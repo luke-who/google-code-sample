@@ -1,5 +1,5 @@
 # Google Coding Challenge
-## Simulating a command-line interface (CLI) Youtube Program
+## A command-line interface (CLI) Youtube Program
 -----------------------------------------------------------------------------------
 [![python](https://img.shields.io/badge/python-3.9.1-blue?style=plastic&logo=python)](https://www.python.org/downloads/release/python-388/)
 [![pip](https://img.shields.io/badge/pip-v21.2.2-informational?&logo=pypi)](https://github.com/pypa/pip/releases/tag/21.2.2)
