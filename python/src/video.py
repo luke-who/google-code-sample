@@ -15,6 +15,8 @@ class Video:
         # in case the caller changes the 'video_tags' they passed to us
         self._tags = tuple(video_tags)
 
+        self._flagged = False
+        self._flagged_reason = "Not supplied"
     @property
     def title(self) -> str:
         """Returns the title of a video."""
@@ -29,3 +31,4 @@ class Video:
     def tags(self) -> Sequence[str]:
         """Returns the list of tags of a video."""
         return self._tags
+
